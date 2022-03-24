@@ -10,10 +10,13 @@ class ClassCounter extends Component {
         };
     }
 
+
     render(){ // Render must return your component output!
         return (<>
             <h1>{this.props.heading}</h1>
-            <button>Current count is {this.state.count}</button>
+            <button onClick={e => {this.setState({count: this.state.count + 1})}}>
+                Current count is {this.state.count}
+            </button>
         </>);
     }
 }
