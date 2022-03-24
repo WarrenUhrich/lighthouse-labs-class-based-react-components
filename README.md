@@ -40,4 +40,6 @@ Watch out for the context of `this`, as its value changes depending on when and 
 
 ## Lifecycle Methods
 
-
+- `componentDidMount`: Method that runs when the component is initialized (has been created and added to the browser.)
+- `componentDidUpdate`: Method that runs anytime data in the component changes and re-rendered.
+- `componentWillUnmount`: Method that runs just before the component is destroyed. Do your clean-up here!
