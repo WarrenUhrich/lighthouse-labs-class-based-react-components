@@ -7,3 +7,8 @@
 * [ ] State
 * [ ] Events
 * [ ] Lifecycle Methods
+Our Class-Based To-Dos!
+Enter a new to-do:
+To-Dos:
+
+Our Functional To-Dos!
