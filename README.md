@@ -1,6 +1,6 @@
 # Lighthouse Labs | React: Class-Based Components
 
-* [ ] ES6 Classes
+* [X] ES6 Classes
 * [ ] Functional Components
 * [ ] Class-Based Components
 * [ ] Props
