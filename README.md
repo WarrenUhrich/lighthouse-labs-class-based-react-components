@@ -1,4 +1,4 @@
-# Lighthouse Labs | React: Class-Based Components
+# Lighthouse Labs | Class-Based Components
 
 * [ ] ES6 Classes
 * [ ] Functional Components
