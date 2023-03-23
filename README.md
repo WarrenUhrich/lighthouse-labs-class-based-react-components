@@ -1,6 +1,6 @@
 # Lighthouse Labs | Class-Based Components
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-class-based-react-components/tree/2023.03.23-web-flex-day-17oct2023) | [Vimeo Video Recording (Coming Soon!)](#coming-soon)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-class-based-react-components/tree/2023.03.23-web-flex-day-17oct2023) | [Vimeo Video Recording](https://vimeo.com/811063184/7c52e74921)
 
 * [X] ES6 Classes
 * [X] Functional Components
