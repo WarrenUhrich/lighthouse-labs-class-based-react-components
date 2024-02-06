@@ -106,6 +106,8 @@ methodName = () => { // Arrow functions and methods don't overwrite the context 
 * `componentDidUpdate`: Method that runs anytime data in the component changes and re-rendered.
 * `componentWillUnmount`: Method that runs just before the component is destroyed. Do your clean-up here! Consider removing any listeners, intervals, etc, that cannot be used once the component is gone.
 
+![Class-Based React Component Lifecycle Methods](https://miro.medium.com/v2/resize:fit:4516/1*552z6hbX_b648DjpTLHZNg.png)
+
 ## Links and Resources
 
 * [Lifecycle Methods Diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
